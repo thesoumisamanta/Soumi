@@ -1,21 +1,21 @@
 ![logo](https://github.com/thesoumisamanta/thesoumisamanta/blob/main/tss.jpg)
 <h1 align="center">Hi, This is TSS</h1>
-<h3 align="center">Crafting Code from Front to Back|Full Stack Development</h3>
+<h3 align="center">Crafting Code from Web to Android</h3>
 
 <img align="right" alt="coding" width="400" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/49e5716eade46e97656d5d6427b11340-1684516178/ANIMATE1_V2/can-make-gif-animated-in-the-form-of-pixel-art.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesoumisamanta&label=Profile%20views&color=0e75b6&style=flat" alt="thesoumisamanta" /> </p>
 
-- 🌱 I’m currently learning **Flask, React, Django**
+- 🌱 I’m currently learning **Flutter, Socket IO, MFE**
 
-- I’m currently working on a **A Machine Learning Project on Social Media Sentiment Analysis**
+- I’m currently working on a **Adani Aviation's Aviio App**
 
 - 👨‍💻 All of my projects are available at [https://github.com/thesoumisamanta](https://github.com/thesoumisamanta)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **samantasoumi10@gmail.com**
 
-- ⚡ Fun fact **I am very chilled Person and can make anyone chilled also within some seconds.**
+- ⚡ Fun fact **Turning my love for coffee into code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
